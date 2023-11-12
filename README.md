@@ -11,3 +11,5 @@ Solution for DataWagon Track 1 challenge
 <img width="466" alt="image" src="https://github.com/a125x/DataWagon/assets/91656458/4bfe0e3c-20ba-4223-a497-f08c0f7eced0">
 
 Матрица корреляции фичей
+
+<img width="447" alt="image" src="https://github.com/a125x/DataWagon/assets/91656458/94e247ae-8e31-4fe6-931d-c6d55d48945c">
